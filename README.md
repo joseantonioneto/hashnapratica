@@ -6,7 +6,7 @@
 
 <h3>Script para criação de arquivo Hash.</h3>
 
-<div align ="center"> <img src ="img/img1.PNG"> </div>
+<div align ="center"> <img src ="img/img 1.PNG"> </div>
 
 <h3>Alterar main para comparar o Hash.</h3>
 
