@@ -14,5 +14,5 @@
     <img src="img/img 2.PNG">
 </div>
 
-Ao executar o primeiro script  será criado um arquivo com o **hash** armazenado para comparação. O segundo script fará a comparação. 
+Ao executar o primeiro script  será criado um arquivo com o **hash** armazenado para comparação. O segundo script fará a comparação. Detalhe importante é apagar o conteúdo da main do primeiro pro segundo, para fazer a comparação
 
