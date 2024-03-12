@@ -1,6 +1,18 @@
 # hash na prática
 
-1. Criação de um arquivo "exemplo.txt" com qualquer conteúdo.
-2. Script para criação de arquivo **Hash**.
-3. Alterar main para comparar o **Hash**.
+<h3>Criação de um arquivo "exemplo.txt" com qualquer conteúdo.</h3>
+
+
+
+<h3>Script para criação de arquivo Hash.</h3>
+
+<div align ="center"> <img src ="img/img1.PNG"> </div>
+
+<h3>Alterar main para comparar o Hash.</h3>
+
+<div align = "center">
+    <img src="img/img 2.PNG">
+</div>
+
+Ao executar o primeiro script  será criado um arquivo com o **hash** armazenado para comparação. O segundo script fará a comparação. 
 
